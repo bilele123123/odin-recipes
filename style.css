@@ -1,0 +1,19 @@
+.title {
+    font-weight: bold;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', Times, sans-serif;
+    background-color: red;
+    text-align: center;
+}
+#heading {
+    color: rgb(143, 177, 207);
+    font-weight: bolder;
+}
+
+.external#padthai {
+    color: aqua;
+}
+
+.external#pho {
+    color: rgb(37, 70, 177);
+}

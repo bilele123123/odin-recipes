@@ -1,0 +1,30 @@
+.phoimg {
+    height: auto;
+    width: 300px;
+}
+
+.padthaiimg {
+    height:auto;
+    width: 300px;
+}
+
+.title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bolder;
+    background-color: tomato;
+}
+
+.subheading {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ingredients {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+}
